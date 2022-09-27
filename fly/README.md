@@ -1,1 +1,0 @@
-!["arkAdmin"](screenshot.png "arkAdmin")
